@@ -1,5 +1,10 @@
+# Project URL
+```
+https://roadmap.sh/projects/task-tracker
+```
+
 # Adding a new task
-python task_cli.py add ``<description>`
+python task_cli.py add `<description>`
 ```bash
 python task_cli.py add "Buy groceries"
 ```
